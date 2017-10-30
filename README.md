@@ -9,7 +9,7 @@ This project is a simple JavaFx application that adds three numbers.  Really its
 * Individual row settings can be set on nodes directly which will over write any column constraints set.
 
 ## Code Example
-
+<img width="632" alt="screen shot 2017-10-30 at 08 04 51" src="https://user-images.githubusercontent.com/17004808/32160294-129b4bf8-bd49-11e7-8abc-843f1ae3438b.png">
 
 ## Motivation
 
